@@ -22,7 +22,7 @@ Exploring Pandas Library and finding outliers and removing them from a dataframe
 		lower_limit=Q1-1.5*IQR
   
   step 5:find upper filter limit 
-		upper_limit=Q1-1.5*IQR
+		upper_limit=Q3-1.5*IQR
 		
   Step 6:then filter out values on basis of the lower limit and upper limit.
   
