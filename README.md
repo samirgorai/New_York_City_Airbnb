@@ -26,4 +26,6 @@ Exploring Pandas Library and finding outliers and removing them from a dataframe
 		
   Step 6:then filter out values on basis of the lower limit and upper limit.
   
-  
+Dataset used from Kaggle: New York City Airbnb Open Data
+https://lnkd.in/dTgJ-xHs
+
